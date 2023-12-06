@@ -36,6 +36,9 @@ Install the required Python libraries using:
 pip3 install -r requirements.txt
 ```
 
+```
+export TESSDATA_PREFIX=./models
+```
 ## Usage
 To run the script, navigate to the project directory and execute the following command:
 
